@@ -1,5 +1,8 @@
 _repo: A-Grandmother-s-Recollections_11427
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Church, Ella Rodman
@@ -12,6 +15,8 @@ description: At age 15 Ella meets her dignified grandmother, Amy Chesbury, who r
   admits that her greatest faults were vanity and curiosity, and reveals the exciting
   circumstances of her meeting and subsequent rescue of her future husband, Major
   Armstrong.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11427#A-Grandmother-s-Recollections
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
 identifiers:
